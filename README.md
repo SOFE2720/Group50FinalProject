@@ -2,6 +2,11 @@
 
 ![Weeble Logo](Code/weeble_logo.png)
 
+## Group members
+Harveen Sandhu (100704514)
+Matheeshan Sivalingam (100703887)
+Hamza Zahid (100711463)
+
 ## Project Description 
 
 Weeble is a web application that allows users to match and connect with individuals who share
@@ -11,6 +16,8 @@ consideration and find compatible matches that fit the user’s criteria. In com
 dating websites in the market, the algorithm designed for this application will have a strong focus
 on prioritizing the hobbies and interests of the user. This software is intended to help facilitate
 individuals who are seeking intimate as well as platonic relationships.. 
+
+
 
 ## Stakeholders
 
