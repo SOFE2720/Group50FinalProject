@@ -3,8 +3,8 @@
 ![Weeble Logo](Code/weeble_logo.png)
 
 ## Group members
-Harveen Sandhu (100704514)
-Matheeshan Sivalingam (100703887)
+Harveen Sandhu (100704514)<br/>
+Matheeshan Sivalingam (100703887)<br/>
 Hamza Zahid (100711463)
 
 ## Project Description 
