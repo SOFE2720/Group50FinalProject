@@ -51,7 +51,7 @@ similar passion in life. An algorithm that is able to calculate how compatible i
 show those who pass a specific threshold to the user would need to be implemented. Finally, a
 messaging application would be needed to allow the user to communicate with their matches.
 
-# Vision statement
+## Vision statement
 
 Our vision is to provide a service where people can express and celebrate their hobbies with
 other individuals who share similar passions. We want to be able to allow our users to create
