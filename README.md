@@ -1,6 +1,6 @@
 # Group 50 Final Project
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Weeble Logo](Code/weeble_logo.png)
 
 ## Project Description 
 
