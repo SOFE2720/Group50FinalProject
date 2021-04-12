@@ -1,0 +1,18 @@
+#iconAccept {
+    color: green;
+    font-size:5em; 
+}
+
+#iconReject {
+    color: red;
+    font-size: 7em;
+}
+
+.matchRejectbtn{
+    background:transparent;
+    border: none;
+}
+
+.card-img-top {
+    max-width: 100px;
+}

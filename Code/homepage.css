@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: 	#D3D3D3!important; 
+}
+#happy_couple_border {
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px grey;
+}
+
+#happy_couple {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.btnLogin {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btnCreate {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btnLogin:hover {
+    background-color: white;
+    border: 1px solid;
+    color: black;
+}
+
+.btnCreate:hover {
+    background-color: white;
+    border: 1px solid;
+    color: black;
+}
+
+#birthday {
+    width: 450px;
+}
