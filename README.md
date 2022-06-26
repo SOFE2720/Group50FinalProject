@@ -19,7 +19,6 @@ on prioritizing the hobbies and interests of the user. This software is intended
 individuals who are seeking intimate as well as platonic relationships.. 
 
 
-
 ## Stakeholders
 
 **The following stakeholders have been identified:**
@@ -66,5 +65,7 @@ other individuals who share similar passions. We want to be able to allow our us
 meaningful bonds that will last a lifetime.
 
 
-[Software Architectural Analysis](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture)
+## Software Architectural Analysis
+[SOFE3650-WeebleSoftwareArchitecture](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture)
+
 
