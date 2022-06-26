@@ -7,6 +7,7 @@ Harveen Sandhu (100704514)<br/>
 Matheeshan Sivalingam (100703887)<br/>
 Hamza Zahid (100711463)
 
+Software Architectural Analysis(https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture)
 ## Project Description 
 
 Weeble is a web application that allows users to match and connect with individuals who share
